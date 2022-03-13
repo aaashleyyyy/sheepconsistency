@@ -5,7 +5,7 @@
   "mixins": [
   ],
   "client": [
-    "SheepEntityRendererMixin"
+    "SheepRendererMixin"
   ],
   "server": [],
   "injectors": {
